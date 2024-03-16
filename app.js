@@ -11,7 +11,6 @@ plus.addEventListener("click",()=>{
     console.log(a)
 });
 
-
 minus.addEventListener("click",()=>{
     if(a > 1){
         a--;
