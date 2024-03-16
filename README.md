@@ -11,7 +11,7 @@
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Thanks. 
-You can see the live demo  <a href="" target="_blank">by clicking here.</a>
+Click  <a href="https://hannah-moon.github.io/09_JS_AddtoCart_Increment_Decrement_Operator/" target="_blank">here</a> to see the live demo.
 
 
 ## Built With
